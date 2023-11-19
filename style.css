@@ -1,0 +1,111 @@
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
+
+body {
+    margin: 0;
+    color: #fff;
+}
+canvas
+{
+    position: absolute;
+    z-index: 0;
+}
+#point_div
+{
+    position: absolute;
+    z-index: 1000;
+    height: 35px;
+    width: 100px;
+    //background: red;
+    text-align: right;
+    display: flex;
+    //justify-content: center;
+    align-items: center;
+    margin: 10px;
+    font-size: 18pt;
+    display: none;
+    color: #000;
+}
+img
+{
+    height: 30px;
+    width: 30px;
+    margin: 0 10px 0 0;
+}
+#restart
+{
+    height: 30px;
+    width: 100px;
+    background: #262626;
+    border: none;
+    color: #fff;
+    text-transform: uppercase;
+    position: absolute;
+    z-index: 1001;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: none;
+}
+button:focus
+{
+    outline: none;
+}
+
+#load
+{
+    height: 100vh;
+    width : 100vw;
+    z-index: 1005;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    font-size: 12px;
+}
+#splash
+{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    z-index: 1006;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    background: rgba(0,0,0,0.6);
+    text-transform: uppercase;
+}
+#tip
+{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 70%;
+    font-size: 10px;
+}
+
+/* 
+
+     ============================================================
+      
+          _____________   ^^^^^^^^^^    ____________________
+
+[   By ~Aryan Maurya Mr.perfect https://amsrportfolio.netlify.app  ]
+
+          _____________   ^^^^^^^^^^    ____________________
+
+     ============================================================
+
+*/
