@@ -4,7 +4,7 @@ Experience an exhilarating gaming adventure with Swipe to Jump, a game where eve
 
 ## Play the Game
 
-[Play Now](https://your-username.github.io/swipe-to-jump/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/swipe-to-jump/) 🕹️
 
 ## About the Game
 
